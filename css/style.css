@@ -1,0 +1,15 @@
+.number {
+  display: flex;
+}
+.minus,
+.plus {
+  width: 20px;
+  height: 20px;
+  background-color: #34a6dc;
+  border-radius: 4px;
+  padding: 8px 5px 8px 5px;
+  border: 1px solid #ddd;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
